@@ -1,0 +1,58 @@
+.td{
+    width: 20%;
+    text-align: center;
+}
+
+.th{
+    width: 20%;
+    text-align: center;
+}
+
+.card{
+    margin-top: 4%;
+}
+
+.button{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-weight: 20px;
+    color: #edf0f1;
+    text-decoration: none;
+    margin-left: 2%;
+    padding : 9px 25px;
+    background-color: rgba(0, 123, 255, 0.959);
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+}
+
+.form{
+    margin: 2%;
+}
+.field{
+    display: flex;
+    /* justify-content: space-between; */
+    padding: 1%;
+}
+
+.field-file{
+    display: flex;
+    /* width: 60%; */
+    padding: 1%;
+}
+
+.in{
+    width: 80%;
+    margin-left: 10%;
+}
+
+.lb{
+    width: 10%;
+}
+
+.in_{
+    width: 20%;
+    margin-left: 10%;
+    cursor: pointer;
+}
